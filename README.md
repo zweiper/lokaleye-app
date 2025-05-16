@@ -6,7 +6,9 @@ LokalEye is a community-focused mobile application designed to enhance neighborh
 We use a **feature branching** workflow. Each feature is developed in its own branch and merged to `main` upon completion and approval.
 
 ## 👥 Developers
-- Jessica Danielle Erasmo – Backend Developer
+- Cyrus Jezter Orde – Project Manager
 - Kate Valerie Gonzales – UI/UX Designer
 - Jeroises Israel Rosarda – Frontend Developer
-- Cyrus Jezter Orde – Project Manager
+- Jessica Danielle Erasmo – Backend Developer
+
+
